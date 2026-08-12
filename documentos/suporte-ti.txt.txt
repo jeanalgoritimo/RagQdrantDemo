@@ -1,0 +1,17 @@
+SUPORTE DE TI
+
+Para solicitar suporte, o colaborador deve abrir um chamado
+informando claramente o problema.
+
+O chamado deve conter:
+
+- Sistema afetado.
+- Descrição do problema.
+- Mensagem de erro.
+- Evidências, quando disponíveis.
+- Impacto para o trabalho.
+
+Problemas críticos devem ser classificados como prioridade alta.
+
+Problemas que impedem completamente a execução das atividades
+devem ser comunicados imediatamente ao gestor e à equipe de TI.

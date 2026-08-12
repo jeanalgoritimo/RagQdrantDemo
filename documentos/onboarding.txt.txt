@@ -1,0 +1,81 @@
+PROCESSO DE ONBOARDING - NOVOS COLABORADORES
+
+1. OBJETIVO
+
+O processo de onboarding tem como objetivo orientar novos colaboradores
+durante os primeiros dias na empresa, apresentando a organização,
+as ferramentas utilizadas, as políticas internas e os procedimentos
+necessários para iniciar suas atividades.
+
+2. PRIMEIRO DIA
+
+No primeiro dia, o colaborador deve:
+
+- Realizar o cadastro no sistema corporativo.
+- Configurar o e-mail empresarial.
+- Configurar o acesso ao Microsoft Teams.
+- Solicitar acesso aos sistemas necessários para sua função.
+- Participar da apresentação institucional.
+- Conhecer seu gestor e sua equipe.
+
+3. ACESSOS
+
+O gestor responsável deve solicitar os seguintes acessos:
+
+- E-mail corporativo.
+- Microsoft Teams.
+- GitHub ou GitLab.
+- Azure DevOps.
+- Sistemas internos.
+- Banco de dados, quando necessário para a função.
+
+Os acessos devem seguir o princípio do menor privilégio,
+ou seja, o colaborador deve receber somente as permissões
+necessárias para executar suas atividades.
+
+4. PRIMEIRA SEMANA
+
+Durante a primeira semana, o colaborador deve:
+
+- Conhecer a arquitetura dos sistemas.
+- Ler a documentação do projeto.
+- Conhecer o fluxo de desenvolvimento.
+- Configurar o ambiente local.
+- Executar o projeto localmente.
+- Conhecer o processo de Git.
+- Conhecer o processo de Pull Request.
+- Participar das reuniões da equipe.
+
+5. RESPONSABILIDADES DO GESTOR
+
+O gestor deve:
+
+- Apresentar o colaborador à equipe.
+- Definir as primeiras atividades.
+- Garantir que os acessos estejam disponíveis.
+- Apresentar os principais sistemas.
+- Indicar a documentação necessária.
+- Acompanhar o colaborador durante o período inicial.
+
+6. RESPONSABILIDADES DO COLABORADOR
+
+O colaborador deve:
+
+- Ler a documentação disponibilizada.
+- Configurar seu ambiente de trabalho.
+- Solicitar acessos que estejam faltando.
+- Participar das reuniões.
+- Tirar dúvidas com o gestor ou equipe.
+- Seguir os padrões técnicos da empresa.
+
+7. SUPORTE
+
+Em caso de problemas de acesso ou configuração,
+o colaborador deve abrir uma solicitação para a equipe
+de suporte de TI informando:
+
+- Nome completo.
+- Sistema que apresenta o problema.
+- Descrição do problema.
+- Mensagem de erro.
+- Data e horário em que ocorreu o problema.
